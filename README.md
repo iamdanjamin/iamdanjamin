@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, hello, and howdy!👋
 
-<!--
-**iamdanjamin/iamdanjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a computer science student with a passion for computer graphics, artificial intelligence, and video games, among other things. 
+
+
+**What am I working on?**
+
+- Creating a game engine from the ground up (currently implementing an event system)
+- Experimenting with implementations of sparse voxel octrees
+
+
+**What am I learning?**
+- Vulkan API
+- Ray casting algorithms
+- Ray marching algorithms
