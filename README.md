@@ -1,8 +1,5 @@
 ### Hi, hello, and howdy!👋
 
-
-**About me**
-
 I am a computer science student with a passion for computer graphics, artificial intelligence, and video games, among other things. 
 
 
